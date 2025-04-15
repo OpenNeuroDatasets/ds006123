@@ -8,7 +8,6 @@ Guillaume J.-P. C. Becq (1), Olivier Montigon (2), Sarvenaz Keshmiri (2, 3), Aur
 
 Acquisitions done from 2024-05-13 to 2024-11-20 
 
-See associated publication for details. 
 
 ## sub-1
 - sub-1_ses-1: acquisitions in the 4.7 T MRI scanner for small animals 
@@ -42,5 +41,10 @@ Main operation frequency for 1H 127.73 MHz
 Frequency range 1H 127.73 MHz - 128.09 MHz
 Maximum Gradient Output: 20.0 cm - 92.0 T/s; 40.0 cm - 125.0 T/s; 50.0 cm - 156.0 T/s
 
+
+## references
+3D models are available here: 
+https://github.com/gjpcbecq/phantom3D.git
+https://doi.org/10.5281/zenodo.15211130
 
 
