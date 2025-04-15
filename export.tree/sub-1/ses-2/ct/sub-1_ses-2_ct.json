@@ -1,0 +1,23 @@
+{
+	"Modality": "CT",
+	"ManufacturersModelName": "10",
+	"DeviceSerialNumber": "5011",
+	"SeriesDescription": "Unknown [1] (2630)",
+	"ProtocolName": "Unknown [1] (2630)",
+	"ImageType": ["DERIVED", "PRIMARY", "AXIAL"],
+	"RawImage": false,
+	"SeriesNumber": 2630,
+	"AcquisitionNumber": 314,
+	"ConvolutionKernel": "3",
+	"ExposureTime": 0.2,
+	"SliceThickness": 0.076,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20211006"
+}
